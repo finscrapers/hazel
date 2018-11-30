@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "finscrapers-hazel",
+  "env": {
+    "ACCOUNT": "finscrapers",
+    "REPOSITORY": "finscrapers"
+  },
+  "files": ["lib", "views", "package-lock.json", "package.json"]
+}
